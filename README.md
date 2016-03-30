@@ -1,9 +1,7 @@
 # morpheus1
-Hello world!
+553503
 
-I'm a first year student of BSUIR
-
-I would like to show you my coursework(in future^_^)
+Михалев Антон Андреевич
 
 Темой курсовой работы является игра крестики нолики
 
